@@ -1,4 +1,4 @@
-# ENPM808LAnalytics
+# Analytics
 # Introduction to Machine Learning
 
 Welcome to the "Introduction to Machine Learning" repository! This repository is a beginner-friendly resource to help you get started with the fundamentals of machine learning.
